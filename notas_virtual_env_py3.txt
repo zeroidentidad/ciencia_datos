@@ -1,0 +1,28 @@
+Notas py virutal env:
+
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04
+
+https://awebytes.wordpress.com/2019/04/13/python-3-configurar-entorno-de-programacion-local-virtual-env-en-ubuntu-16-18-vers/
+
+-----------------------------------------------
+Virtual Env Python 3, activación: 
+
+source dev-envs/env_python3/bin/activate
+-----------------------------------------------
+
+Instalación paquetes del curso:
+
+pip install jupyter
+
+pip install pandas
+
+-----------------------------------------------
+
+Uso de paquetes:
+
+jupyter notebook
+
+-----------------------------------------------
+Sitio de DataSets:
+
+https://www.kaggle.com/datasets
